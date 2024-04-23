@@ -1,3 +1,9 @@
+# Spotyfy_Clone
+![just-the-basics](./Spotify-Home.jpg)
+![just-the-basics](./Spotify-Album.png)
+
+
+
 # Astro Starter Kit: Basics
 
 ```sh
@@ -10,7 +16,7 @@ npm create astro@latest -- --template basics
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
-![just-the-basics](./Spotify-Album.png)
+
 
 ## 🚀 Project Structure
 
@@ -52,4 +58,4 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
-# Spotyfy_Clone-
+
